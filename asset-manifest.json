@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.533b8147.css",
+    "main.js": "/static/js/main.dfb0093f.js",
+    "static/media/Cinzel-Regular.woff": "/static/media/Cinzel-Regular.86ffea20079c255eee23.woff",
+    "static/media/Cinzel-Regular.woff2": "/static/media/Cinzel-Regular.8dae07e83f3e4308fdf2.woff2",
+    "static/media/BreeSerif-Regular.woff": "/static/media/BreeSerif-Regular.727eadba3a652db93c59.woff",
+    "static/media/BreeSerif-Regular.woff2": "/static/media/BreeSerif-Regular.1bf557e29078af715665.woff2",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.533b8147.css",
+    "static/js/main.dfb0093f.js"
+  ]
+}
